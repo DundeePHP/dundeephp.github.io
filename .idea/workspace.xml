@@ -26,7 +26,25 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="168" column="24" selection-start="7051" selection-end="7051" vertical-scroll-proportion="0.61803716" vertical-offset="2558" max-vertical-offset="3312">
+            <state line="29" column="76" selection-start="987" selection-end="987" vertical-scroll-proportion="0.3538663" vertical-offset="252" max-vertical-offset="2052">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applications.rnc" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/applications.rnc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="261" column="21" selection-start="6024" selection-end="6024" vertical-scroll-proportion="0.0" vertical-offset="4431" max-vertical-offset="6660">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="structural.rnc" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/structural.rnc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="92" column="23" selection-start="2262" selection-end="2262" vertical-scroll-proportion="0.0" vertical-offset="1389" max-vertical-offset="2538">
               <folding />
             </state>
           </provider>
@@ -35,7 +53,7 @@
       <file leaf-file-name="font-awesome.min.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="12501" selection-start="12663" selection-end="12663" vertical-scroll-proportion="-0.9818182" vertical-offset="0" max-vertical-offset="162">
+            <state line="3" column="12501" selection-start="12663" selection-end="12663" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="162">
               <folding />
             </state>
           </provider>
@@ -44,7 +62,7 @@
       <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1405" column="12" selection-start="22181" selection-end="22181" vertical-scroll-proportion="1.4909091" vertical-offset="25372" max-vertical-offset="68742">
+            <state line="3805" column="114" selection-start="68283" selection-end="68283" vertical-scroll-proportion="-8.781818" vertical-offset="68007" max-vertical-offset="68742">
               <folding />
             </state>
           </provider>
@@ -60,15 +78,17 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="846" />
-    <option name="width" value="868" />
-    <option name="height" value="927" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1723" />
+    <option name="height" value="936" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -182,12 +202,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="846" y="0" width="868" height="927" extended-state="0" />
+    <frame x="-8" y="-8" width="1723" height="936" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3256936" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -202,8 +222,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -222,9 +242,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34976527" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -244,6 +264,34 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="32" selection-start="3083" selection-end="3366" vertical-scroll-proportion="0.0" vertical-offset="1262" max-vertical-offset="2016">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/structural.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="23" selection-start="2262" selection-end="2262" vertical-scroll-proportion="0.0" vertical-offset="1389" max-vertical-offset="2538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="12501" selection-start="12663" selection-end="12663" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="162">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3631" column="113" selection-start="64384" selection-end="64387" vertical-scroll-proportion="0.0" vertical-offset="65116" max-vertical-offset="68742">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="49" column="80" selection-start="1737" selection-end="1737" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3294">
@@ -272,23 +320,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+    <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1405" column="12" selection-start="22181" selection-end="22181" vertical-scroll-proportion="1.4909091" vertical-offset="25372" max-vertical-offset="68742">
+        <state line="3" column="12501" selection-start="12663" selection-end="12663" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="162">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/structural.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="12501" selection-start="12663" selection-end="12663" vertical-scroll-proportion="-0.9818182" vertical-offset="0" max-vertical-offset="162">
+        <state line="92" column="23" selection-start="2262" selection-end="2262" vertical-scroll-proportion="0.0" vertical-offset="1389" max-vertical-offset="2538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3805" column="114" selection-start="68283" selection-end="68283" vertical-scroll-proportion="-8.781818" vertical-offset="68007" max-vertical-offset="68742">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/applications.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="261" column="21" selection-start="6024" selection-end="6024" vertical-scroll-proportion="0.0" vertical-offset="4431" max-vertical-offset="6660">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="168" column="24" selection-start="7051" selection-end="7051" vertical-scroll-proportion="0.61803716" vertical-offset="2558" max-vertical-offset="3312">
+        <state line="29" column="76" selection-start="987" selection-end="987" vertical-scroll-proportion="0.3538663" vertical-offset="252" max-vertical-offset="2052">
           <folding />
         </state>
       </provider>
