@@ -7,6 +7,9 @@ Credits:
 	Demo Images:
 		Unsplash (unsplash.com)
 
+	Logo:
+		Evan Burke (evanburke.com)
+
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
 
