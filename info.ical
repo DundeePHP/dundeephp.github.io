@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//JarOfGreen//NONSGML JarOfGreenWikiCalendarBundle//EN
+X-WR-CALNAME:Dundee PHP: August Meetup - Open Tech Calendar
+BEGIN:VEVENT
+UID:3155@otc.opentechcalendar.co.uk
+URL:http://opentechcalendar.co.uk/event/3155-august-meetup
+SUMMARY:Dundee PHP: August Meetup
+DESCRIPTION:The first ever Dundee PHP user group meeting!\n\nFeaturing a sh
+ ort talk on what's new in PHP7 and free food provided by LogicNow.\n\nCome
+  along and meet other developers from Dundee's PHP community and help us d
+ ecide the format and topics for future events.\n6:30pm for 7pm start.\nhtt
+ p://opentechcalendar.co.uk/event/3155-august-meetup\nPowered by Open Tech 
+ Calendar\nSponsored by Amazon Development Centre Scotland http://www.amazo
+ ndc.com/
+X-ALT-DESC;FMTTYPE=text/html:<html><body><p>The first ever Dundee PHP user 
+ group meeting!<br><br>Featuring a short talk on what's new in PHP7 and fre
+ e food provided by LogicNow.<br><br>Come along and meet other developers f
+ rom Dundee's PHP community and help us decide the format and topics for fu
+ ture events.<br>6:30pm for 7pm start.</p><p>More info: <a href="http://ope
+ ntechcalendar.co.uk/event/3155-august-meetup">http://opentechcalendar.co.u
+ k/event/3155-august-meetup</a></p><p style="font-style:italic\;font-size:8
+ 0%">Powered by <a href="http://opentechcalendar.co.uk/event/3155-august-me
+ etup">Open Tech Calendar</a><br>Sponsored by <a href="http://www.amazondc.
+ com/">Amazon Development Centre Scotland</a></p></body></html>
+DTSTART:20150820T173000Z
+DTEND:20150820T210000Z
+END:VEVENT
+END:VCALENDAR
