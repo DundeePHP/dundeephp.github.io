@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+	<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
+		{% include head.html %}
+	</head>
+	<body class="landing">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="index.html">DundeePHP</a></h1>
+					</header>
+
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<h2><img src="images/logo.png" alt="DundeePHP" /></h2>
+							{{ content }}
+						</div>
+						<a href="#one" class="more scrolly"></a>
+					</section>
+
+		{% include restofsite.html %}
+        {% include footer.html %}
+	</body>
+</html>
